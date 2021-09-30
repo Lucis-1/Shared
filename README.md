@@ -1,4 +1,4 @@
-#Paypal
+# Paypal
 ---
 
 ## What is Paypal?
