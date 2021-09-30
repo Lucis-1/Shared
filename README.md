@@ -4,9 +4,8 @@
 ## What is Paypal?
 paypal is an online payment system that makes paying, sending and recieving money, safe and secure. This method has proved efficient through participating stores and throughout the last few years has became popular with almost 87% of businesses accepting paypal as a payment method.
 
----
 ![](pp.png)
----
+
 ## Competitors?
 
 1. Braintree
