@@ -16,6 +16,7 @@ paypal is an online payment system that makes paying, sending and recieving mone
 6. mastercard 
 7. visa
 
+---
 ## Contributers?
 > Lucis Han and Frank Martin
 
