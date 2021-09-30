@@ -18,7 +18,7 @@ paypal is an online payment system that makes paying, sending and recieving mone
 
 ---
 ## Contributers?
-Lucas Han and Frank Martin
+Lucis Han and Frank Martin
 
 ### Paypal Case Report
 Yay
